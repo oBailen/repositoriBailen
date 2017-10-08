@@ -10,6 +10,5 @@ function  clase3(){
             }
             
 function  fantasma(){
-    echo("Modificacion");
             }      
 ?>
