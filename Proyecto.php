@@ -9,4 +9,6 @@ function  clase2(){
 function  clase3(){
             }
             
+function  fantasma(){
+            }      
 ?>
